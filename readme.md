@@ -123,15 +123,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yatharth2001&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Yatharth2001&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth2001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Yatharth2001&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
